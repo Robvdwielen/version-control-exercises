@@ -1,4 +1,4 @@
 # version-control-exercises
-Eerste Git repository
+## Eerste Git repository
 -------
-Ik weet niet wat dit doet
+# Ik weet niet wat dit doet
